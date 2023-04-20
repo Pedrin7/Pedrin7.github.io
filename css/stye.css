@@ -1,0 +1,17 @@
+.container{
+
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+
+
+
+}
+
+.form{
+
+    border: 1px black solid;
+    width: 50%;
+    margin-left: 25%;
+}
